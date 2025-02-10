@@ -120,6 +120,12 @@
     width: 665.33px;
     height: 499px;
 }
+.background-img{
+    background-image: url(../assets/doodle\ items.png);
+    height: 1000px;
+    background-repeat: repeat;
+    background-size: 500px 400px;
+}
 
 
 
