@@ -99,6 +99,7 @@
     padding-top: 100px;
     padding-left: 100px;
     padding-bottom: 100px;
+    border-bottom: 1px solid red;
 }
 .about-me-header{
     font-family: 'Poppins';
