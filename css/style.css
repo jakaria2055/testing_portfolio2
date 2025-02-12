@@ -184,6 +184,51 @@
     backdrop-filter: blur(2px);
     border-radius: 16px;
 }
+.fourth-page-header1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+    color: #EEEEEE;
+    padding-left: 96px;
+}
+.fourth-page-header2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+    color: #00ADB5;
+    padding-left: 96px;
+}
+.fourth-page-col1{
+    padding-top: 258px;
+    margin-bottom: 150px;
+}
+.forth-page-img{
+    padding-left: 317px;
+}
+.fourth-page-col2{
+    padding-top: 258px;
+    margin-bottom: 150px;
+}
+.name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #EEEEEE;
+    padding-bottom: 10px;
+}
+.message{
+    height: 300px;
+}
+.button-4th-page{
+    margin-left: 50px;
+}
+
 
 
 /* media query */
