@@ -228,6 +228,55 @@
 .button-4th-page{
     margin-left: 50px;
 }
+.footer-option{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 48px;
+    border-top: 1px solid rgba(238, 238, 238, 0.1);
+    padding-top: 100px;
+}
+.foottext{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #EEEEEE;
+    text-decoration: none;
+}
+.footer-text-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+.footer-option-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 24px;
+    padding-top: 85px;
+    /* padding-bottom: 50px; */
+}
+.term{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.term-text{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: rgba(238, 238, 238, 0.75);
+padding-right: 50px;
+padding-bottom: 20px;
+}
 
 
 
